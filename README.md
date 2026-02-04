@@ -1,6 +1,6 @@
 # Profession AI Projects
 
-This repository contains the final projects of the AI Engineerign Master. They are classified by topic/course name and project name. A small description of each project is included:
+This repository contains the final projects of the AI Engineering Master. They are classified by topic/course name and project name. A small description of each project is included:
 
 1. Python programming - Python-Powered Contact Management System for ContactEase
    
@@ -18,7 +18,7 @@ A machine learning project focused on real estate price prediction using Python.
 
 An automated fruit classification system using Python and the K-Nearest Neighbors (KNN) algorithm. It features a complete pipeline from exploratory data analysis (EDA) to feature scaling and cross-validation, optimizing supply chain efficiency through accurate categorical prediction of exotic fruit types.
 
-5. MLOps and Machine Learning in deployment - for this project, see this repo.
+5. MLOps and Machine Learning in deployment - for this project, see this [repository](https://github.com/alessiofontanarossa/MachineInnovators_monitoring).
 6. Deep Learning and artificial neural networks - Animal & Vehicle Recognition for Autonomous Driving
 
 A deep learning project utilizing Convolutional Neural Networks (CNN) and the CIFAR dataset to distinguish between animals and vehicles. It focuses on real-time safety for autonomous driving, featuring a detailed analysis of model accuracy, precision, and error patterns to optimize urban wildlife monitoring.
