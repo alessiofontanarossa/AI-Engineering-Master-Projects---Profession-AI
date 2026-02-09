@@ -41,7 +41,7 @@ A cutting-edge security project enhancing power plant surveillance through Gener
 
 11. Explainable AI - Explainable AI (XAI) for Compliance at Banca Virtuosa
 
-A financial sector project focused on the transparency and interpretability of deep learning models. By implementing Grad-CAM, SHAP, LIME, and Integrated Gradients, it generates saliency maps to visualize decision-making processes, ensuring regulatory compliance and identifying systematic errors in financial data classification.
+A financial sector project focused on the transparency and interpretability of deep learning models. By implementing Grad-CAM, Occlusion Map and Integrated Gradients, it generates saliency maps to visualize decision-making processes, ensuring regulatory compliance and identifying systematic errors in financial data classification.
 
 🛠 Technical Summary:
 
